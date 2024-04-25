@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./programs/socialnetwork-rs/Cargo.toml"
+    ]
+}
